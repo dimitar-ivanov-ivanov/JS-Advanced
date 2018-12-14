@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae04333a-7445-497f-9f4f-e122bb5c2791" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-515764301">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="9" />
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="2473" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="2473" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sub Sum.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Playing Cards.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Deck of Cards.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sum.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Check for Symmetry.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RGB to Hex.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Add &amp; Subtract.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="60" column="41" lean-forward="true" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testOne.js" />
+        <option value="$PROJECT_DIR$/testTwo.js" />
+        <option value="$PROJECT_DIR$/Sub Sum.js" />
+        <option value="$PROJECT_DIR$/Playing Cards.js" />
+        <option value="$PROJECT_DIR$/Deck of Cards.js" />
+        <option value="$PROJECT_DIR$/rgb-to-heh.js" />
+        <option value="$PROJECT_DIR$/rgb-to-hex.js" />
+        <option value="$PROJECT_DIR$/sum.js" />
+        <option value="$PROJECT_DIR$/Check for Symmetry.js" />
+        <option value="$PROJECT_DIR$/RGB to Hex.js" />
+        <option value="$PROJECT_DIR$/Add &amp; Subtract.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/assertion-error/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chai/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/check-error/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/deep-eql/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-func-name/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pathval/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/type-detect/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="646" />
+    <option name="width" value="706" />
+    <option name="height" value="748" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Add &amp; Subtract.js" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="C:/Program Files/nodejs/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.createCalculator().Nominal cases(valid input).should return 2 after add(10); subtract('7'); add('-2'); subtract(-1)">
+    <configuration name="Demo tests" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/Add &amp; Subtract.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="createCalculator().Nominal cases(valid input).should return -5 after add(-2); add(-3)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Add &amp; Subtract.js</test-file>
+      <test-names>
+        <name value="createCalculator()" />
+        <name value="Nominal cases(valid input)" />
+        <name value="should return -5 after add(-2); add(-3)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="createCalculator().Nominal cases(valid input).should return 2 after add(10); subtract('7'); add('-2'); subtract(-1)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Add &amp; Subtract.js</test-file>
+      <test-names>
+        <name value="createCalculator()" />
+        <name value="Nominal cases(valid input)" />
+        <name value="should return 2 after add(10); subtract('7'); add('-2'); subtract(-1)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="createCalculator().Nominal cases(valid input).should return 5 after add(2); add(3)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Add &amp; Subtract.js</test-file>
+      <test-names>
+        <name value="createCalculator()" />
+        <name value="Nominal cases(valid input)" />
+        <name value="should return 5 after add(2); add(3)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="createCalculator().Nominal cases(valid input).should return 5 after add(7); substract(2)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Add &amp; Subtract.js</test-file>
+      <test-names>
+        <name value="createCalculator()" />
+        <name value="Nominal cases(valid input)" />
+        <name value="should return 5 after add(7); substract(2)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="createCalculator().Nominal cases(valid input).should return NaN for substract(string)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Add &amp; Subtract.js</test-file>
+      <test-names>
+        <name value="createCalculator()" />
+        <name value="Nominal cases(valid input)" />
+        <name value="should return NaN for substract(string)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.Demo tests" />
+      <item itemvalue="Mocha.createCalculator().Nominal cases(valid input).should return 5 after add(2); add(3)" />
+      <item itemvalue="Mocha.createCalculator().Nominal cases(valid input).should return -5 after add(-2); add(-3)" />
+      <item itemvalue="Mocha.createCalculator().Nominal cases(valid input).should return 5 after add(7); substract(2)" />
+      <item itemvalue="Mocha.createCalculator().Nominal cases(valid input).should return NaN for substract(string)" />
+      <item itemvalue="Mocha.createCalculator().Nominal cases(valid input).should return 2 after add(10); subtract('7'); add('-2'); subtract(-1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.createCalculator().Nominal cases(valid input).should return 2 after add(10); subtract('7'); add('-2'); subtract(-1)" />
+        <item itemvalue="Mocha.createCalculator().Nominal cases(valid input).should return NaN for substract(string)" />
+        <item itemvalue="Mocha.createCalculator().Nominal cases(valid input).should return 5 after add(7); substract(2)" />
+        <item itemvalue="Mocha.createCalculator().Nominal cases(valid input).should return -5 after add(-2); add(-3)" />
+        <item itemvalue="Mocha.createCalculator().Nominal cases(valid input).should return 5 after add(2); add(3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae04333a-7445-497f-9f4f-e122bb5c2791" name="Default Changelist" comment="" />
+      <created>1541163880464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541163880464</updated>
+      <workItem from="1541163883286" duration="1461000" />
+      <workItem from="1541165434766" duration="3573000" />
+      <workItem from="1541171658377" duration="2251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Check_for_Symmetry_js - 2018.11.02 at 18h 15m 35s.xml">
+      <configuration name="Check for Symmetry.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Demo_tests - 2018.11.02 at 18h 19m 00s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Demo_tests - 2018.11.02 at 18h 23m 47s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Demo_tests - 2018.11.02 at 18h 24m 55s.xml">
+      <configuration name="Demo tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="createCalculator()_Nominal_cases(valid_input)_should_return_5_after_add(2)__add(3) - 2018.11.02 at 18h 25m 30s.xml">
+      <configuration name="createCalculator().Nominal cases(valid input).should return 5 after add(2); add(3)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="createCalculator()_Nominal_cases(valid_input)_should_return_-5_after_add(-2)__add(-3) - 2018.11.02 at 18h 25m 53s.xml">
+      <configuration name="createCalculator().Nominal cases(valid input).should return -5 after add(-2); add(-3)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="createCalculator()_Nominal_cases(valid_input)_should_return_5_after_add(7)__substract(2) - 2018.11.02 at 18h 27m 06s.xml">
+      <configuration name="createCalculator().Nominal cases(valid input).should return 5 after add(7); substract(2)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="createCalculator()_Nominal_cases(valid_input)_should_return_5_after_add(7)__substract(2) - 2018.11.02 at 18h 27m 22s.xml">
+      <configuration name="createCalculator().Nominal cases(valid input).should return 5 after add(7); substract(2)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="createCalculator()_Nominal_cases(valid_input)_should_return_NaN_for_substract(string) - 2018.11.02 at 18h 29m 12s.xml">
+      <configuration name="createCalculator().Nominal cases(valid input).should return NaN for substract(string)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="createCalculator()_Nominal_cases(valid_input)_should_return_2_after_add(10)__subtract('7')__add('-2')__subtract(-1) - 2018.11.02 at 18h 29m 51s.xml">
+      <configuration name="createCalculator().Nominal cases(valid input).should return 2 after add(10); subtract('7'); add('-2'); subtract(-1)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7285000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="646" y="0" width="706" height="748" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2894309" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1609756" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3252818" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Playing Cards.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Deck of Cards.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Sum.js</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testOne.js" />
+    <entry file="file://$PROJECT_DIR$/testTwo.js" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sub Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Playing Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deck of Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Check for Symmetry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RGB to Hex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Add &amp; Subtract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="60" column="41" lean-forward="true" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
